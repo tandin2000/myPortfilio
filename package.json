@@ -1,13 +1,10 @@
 {
-  "homepage":"http://tandin2000.github.io/myPortfilio",
   "name": "Tandin's_Portfolio",
   "private": true,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "vite build",
-    "deploy": "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
