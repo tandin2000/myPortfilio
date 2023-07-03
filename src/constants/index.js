@@ -307,7 +307,7 @@ const projects = [
   {
     name: "SmartScience",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive web base platform for visualizing data through informative graphs and bars, fostering understanding and appreciation for complex concepts.",
     tags: [
       {
         name: "ReactJs",
