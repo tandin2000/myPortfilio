@@ -6,6 +6,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0', // Update this line
     port: 3000,
-    https: true,    // Enable HTTPS
+    // https: true,    // Enable HTTPS
   },
 });
