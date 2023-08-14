@@ -287,7 +287,7 @@ const projects = [
   {
     name: "4xtra",
     description:
-      "A web application that facilitates the analysis of synthetic data.",
+      "SaaS based, machine learning risk management platform that is capable of accurately predicting the likelihood of a multi-variate extreme event occurring, together with the associated magnitude of that predicted event using nonstationary time-series data.",
     tags: [
       {
         name: "ReactJs",
@@ -301,7 +301,7 @@ const projects = [
     image: xtra,
     source_code_link:{
       type: "url",
-      link: "http://sdg.4-xtra.com:8443/4-xtra",
+      link: "https://www.4-xtra.com/",
     }
   },
   {
